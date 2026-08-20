@@ -10,6 +10,7 @@ ETAPE_CSV = DATA / "tour_2025_etape.csv"
 REZULTATI_CSV = DATA / "tour_2025_rezultati.csv"
 KOLESARJI_CSV = DATA / "tour_2025_kolesarji.csv"
 RAZSIRJENO_CSV = DATA / "tour_2025_razsirjeno.csv"
+BREAKAWAY_CSV = DATA / "tour_2025_breakaway.csv"
 
 
 def pripravi_mape():

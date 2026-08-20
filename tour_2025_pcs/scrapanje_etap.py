@@ -159,3 +159,58 @@ def pridobi_etapo(etapa):
     return razcleni_podatke_etape(soup, etapa), razcleni_rezultate(
         soup, etapa["stage"]
     )
+
+
+def pridobi_breakaway(stevilka):
+    url = f"{TOUR_URL}/stage-{stevilka}/statistics/kms-in-the-break"
+
+    html = pridobi_html(url)
+    soup = BeautifulSoup(html, "html.parser")
+
+    for tabela in soup.find_all("table"):
+        glava = tabela.find("tr")
+
+        if glava is None:
+            continue
+
+        naslovi = [
+            normaliziraj_besedilo(c.get_text(" ", strip=True))
+            for c in glava.find_all(["th", "td"])
+        ]
+
+        if "KM in first group" not in naslovi:
+            continue
+
+        if "Stages" in naslovi:
+            continue
+
+        breakaway = []
+
+        for vrstica in tabela.find_all("tr")[1:]:
+            celice = vrstica.find_all("td")
+
+            if len(celice) < 4:
+                continue
+
+            rider_link = celice[1].select_one('a[href^="rider/"]')
+
+            if rider_link is None:
+                continue
+
+            breakaway.append({
+                "stage": stevilka,
+                "rider": normaliziraj_besedilo(
+                    rider_link.get_text(" ", strip=True)
+                ),
+                "rider_url": absolutni_url(rider_link["href"]),
+                "km_first_group": v_float(
+                    celice[2].get_text(" ", strip=True)
+                ),
+                "km_before_peloton": v_float(
+                    celice[3].get_text(" ", strip=True)
+                ),
+            })
+
+        return breakaway
+
+    return []
