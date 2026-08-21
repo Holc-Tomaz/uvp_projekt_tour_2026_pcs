@@ -1,0 +1,476 @@
+﻿stage,rider,rider_url,km_first_group,km_before_peloton
+2,ENGELHARDT Felix,https://www.procyclingstats.com/rider/felix-engelhardt,133.0,133.0
+2,MOLENAAR Alex,https://www.procyclingstats.com/rider/alex-molenaar,131.0,131.0
+2,VAN DEN BROEK Frank,https://www.procyclingstats.com/rider/frank-van-den-broek,92.0,92.0
+2,VEISTROFFER Baptiste,https://www.procyclingstats.com/rider/baptiste-veistroffer,,10.0
+3,BAUDIN Alex,https://www.procyclingstats.com/rider/alex-baudin,113.0,121.0
+3,VERCHER Mattéo,https://www.procyclingstats.com/rider/matheo-vercher,101.0,118.0
+3,GARCÍA PIERNA Raúl,https://www.procyclingstats.com/rider/raul-garcia-pierna,96.0,107.0
+3,PRODHOMME Nicolas,https://www.procyclingstats.com/rider/nicolas-prodhomme,93.0,106.0
+3,VAN MECHELEN Vlad,https://www.procyclingstats.com/rider/vlad-van-mechelen,89.0,107.0
+3,BENNETT George,https://www.procyclingstats.com/rider/george-bennett,88.0,112.0
+3,VERVAEKE Louis,https://www.procyclingstats.com/rider/louis-vervaeke,67.0,75.0
+3,OLIVEIRA Nelson,https://www.procyclingstats.com/rider/nelson-oliveira,61.0,69.0
+3,CORT Magnus,https://www.procyclingstats.com/rider/magnus-cort-nielsen,61.0,69.0
+3,PEDERSEN Mads,https://www.procyclingstats.com/rider/mads-pedersen,54.0,61.0
+3,BRAZ AFONSO Clément,https://www.procyclingstats.com/rider/clement-braz-afonso,52.0,61.0
+3,SCHMID Mauro,https://www.procyclingstats.com/rider/mauro-schmid,51.0,65.0
+3,PLAPP Luke,https://www.procyclingstats.com/rider/luke-plapp,51.0,64.0
+3,TEJADA Harold,https://www.procyclingstats.com/rider/harold-tejada,49.0,62.0
+3,STORER Michael,https://www.procyclingstats.com/rider/michael-storer,47.0,59.0
+3,DELBOVE Joris,https://www.procyclingstats.com/rider/joris-delbove,47.0,59.0
+3,BALDERSTONE Abel,https://www.procyclingstats.com/rider/abel-balderstone-roumens,47.0,59.0
+3,ARANBURU Alex,https://www.procyclingstats.com/rider/alex-aranburu,47.0,55.0
+3,BERNAL Egan,https://www.procyclingstats.com/rider/egan-bernal,13.0,21.0
+4,VACEK Mathias,https://www.procyclingstats.com/rider/mathias-vacek,166.0,178.0
+4,CASTRILLO Pablo,https://www.procyclingstats.com/rider/pablo-castrillo-zapater,124.0,176.0
+4,PEDERSEN Mads,https://www.procyclingstats.com/rider/mads-pedersen,122.0,178.0
+4,TRATNIK Jan,https://www.procyclingstats.com/rider/jan-tratnik,122.0,141.0
+4,VAUQUELIN Kévin,https://www.procyclingstats.com/rider/kevin-vauquelin,119.0,176.0
+4,DEBRUYNE Ramses,https://www.procyclingstats.com/rider/ramses-debruyne,115.0,168.0
+4,GARCÍA PIERNA Raúl,https://www.procyclingstats.com/rider/raul-garcia-pierna,115.0,167.0
+4,TRÆEN Torstein,https://www.procyclingstats.com/rider/torstein-traeen,114.0,167.0
+4,FRIGO Marco,https://www.procyclingstats.com/rider/marco-frigo,114.0,167.0
+4,KIRSCH Alex,https://www.procyclingstats.com/rider/alex-kirsch,114.0,139.0
+4,SIMMONS Quinn,https://www.procyclingstats.com/rider/quinn-simmons,112.0,168.0
+4,QUINN Sean,https://www.procyclingstats.com/rider/sean-quinn,112.0,168.0
+4,STANNARD Robert,https://www.procyclingstats.com/rider/robert-stannard,93.0,151.0
+4,STEINHAUSER Georg,https://www.procyclingstats.com/rider/georg-steinhauser,91.0,133.0
+4,EENKHOORN Pascal,https://www.procyclingstats.com/rider/pascal-eenkhoorn,88.0,139.0
+4,VAN DEN BROEK Frank,https://www.procyclingstats.com/rider/frank-van-den-broek,87.0,176.0
+4,DELETTRE Alexandre,https://www.procyclingstats.com/rider/alexandre-delettre,87.0,176.0
+4,STUYVEN Jasper,https://www.procyclingstats.com/rider/jasper-stuyven,87.0,151.0
+4,OLIVEIRA Nelson,https://www.procyclingstats.com/rider/nelson-oliveira,87.0,151.0
+4,VAN MOER Brent,https://www.procyclingstats.com/rider/brent-van-moer,86.0,137.0
+4,MOLENAAR Alex,https://www.procyclingstats.com/rider/alex-molenaar,83.0,166.0
+4,NICOLAU Joel,https://www.procyclingstats.com/rider/joel-nicolau,82.0,176.0
+4,ZIMMERMANN Georg,https://www.procyclingstats.com/rider/georg-zimmermann,78.0,167.0
+4,HERMANS Quinten,https://www.procyclingstats.com/rider/quinten-hermans,78.0,167.0
+4,IZAGIRRE Ion,https://www.procyclingstats.com/rider/ion-izagirre,78.0,167.0
+4,MATTHEWS Michael,https://www.procyclingstats.com/rider/michael-matthews,78.0,167.0
+4,DENZ Nico,https://www.procyclingstats.com/rider/nico-denz,78.0,166.0
+4,VAN MECHELEN Vlad,https://www.procyclingstats.com/rider/vlad-van-mechelen,78.0,142.0
+4,GRÉGOIRE Romain,https://www.procyclingstats.com/rider/romain-gregoire,78.0,142.0
+4,PLANCKAERT Edward,https://www.procyclingstats.com/rider/edward-planckaert,78.0,141.0
+4,COSTIOU Ewen,https://www.procyclingstats.com/rider/ewen-costiou,78.0,129.0
+4,VALGREN Michael,https://www.procyclingstats.com/rider/michael-valgren-andersen,77.0,128.0
+4,GIRMAY Biniam,https://www.procyclingstats.com/rider/biniam-girmay,73.0,80.0
+4,PHILIPSEN Jasper,https://www.procyclingstats.com/rider/jasper-philipsen,73.0,80.0
+5,VEISTROFFER Baptiste,https://www.procyclingstats.com/rider/baptiste-veistroffer,144.0,144.0
+5,ASGREEN Kasper,https://www.procyclingstats.com/rider/kasper-asgreen,,6.0
+5,WRIGHT Fred,https://www.procyclingstats.com/rider/alfred-wright,,6.0
+5,PARET-PEINTRE Valentin,https://www.procyclingstats.com/rider/valentin-paret-peintre,,6.0
+6,CAMPENAERTS Victor,https://www.procyclingstats.com/rider/victor-campenaerts,64.0,64.0
+6,PEDERSEN Mads,https://www.procyclingstats.com/rider/mads-pedersen,60.0,60.0
+6,O'CONNOR Ben,https://www.procyclingstats.com/rider/ben-o-connor,40.0,42.0
+6,ARTZ Huub,https://www.procyclingstats.com/rider/huub-artz,33.0,36.0
+7,OTRUBA Jakub,https://www.procyclingstats.com/rider/jakub-otruba,157.0,157.0
+7,VEISTROFFER Baptiste,https://www.procyclingstats.com/rider/baptiste-veistroffer,157.0,157.0
+8,SLOCK Liam,https://www.procyclingstats.com/rider/liam-slock,178.0,178.0
+8,OTRUBA Jakub,https://www.procyclingstats.com/rider/jakub-otruba,139.0,156.0
+8,GUERNALEC Thibault,https://www.procyclingstats.com/rider/thibault-guernalec,136.0,154.0
+9,JOHANNESSEN Tobias Halland,https://www.procyclingstats.com/rider/tobias-halland-johannessen,94.0,94.0
+9,VAN DER POEL Mathieu,https://www.procyclingstats.com/rider/mathieu-van-der-poel,90.0,97.0
+9,BAUDIN Alex,https://www.procyclingstats.com/rider/alex-baudin,87.0,96.0
+9,PIDCOCK Tom,https://www.procyclingstats.com/rider/tom-pidcock,82.0,92.0
+9,SIMMONS Quinn,https://www.procyclingstats.com/rider/quinn-simmons,73.0,82.0
+9,GEE-WEST Derek,https://www.procyclingstats.com/rider/derek-gee,65.0,80.0
+9,VAN EETVELT Lennert,https://www.procyclingstats.com/rider/lennert-van-eetvelt,64.0,80.0
+9,CASTRILLO Pablo,https://www.procyclingstats.com/rider/pablo-castrillo-zapater,64.0,77.0
+9,ALAPHILIPPE Julian,https://www.procyclingstats.com/rider/julian-alaphilippe,16.0,16.0
+9,KIRSCH Alex,https://www.procyclingstats.com/rider/alex-kirsch,13.0,13.0
+9,HALLER Marco,https://www.procyclingstats.com/rider/marco-haller,10.0,10.0
+9,COSTIOU Ewen,https://www.procyclingstats.com/rider/ewen-costiou,9.0,34.0
+9,JEGAT Jordan,https://www.procyclingstats.com/rider/jordan-jegat,8.0,27.0
+9,AZPARREN Xabier Mikel,https://www.procyclingstats.com/rider/xabier-mikel-azparren-irurzun,7.0,7.0
+9,HESSMANN Michel,https://www.procyclingstats.com/rider/michel-hessmann,7.0,7.0
+9,OLDANI Stefano,https://www.procyclingstats.com/rider/stefano-oldani,7.0,7.0
+9,GODON Dorian,https://www.procyclingstats.com/rider/dorian-godon,7.0,7.0
+9,HERMANS Quinten,https://www.procyclingstats.com/rider/quinten-hermans,7.0,7.0
+9,CRAPS Lars,https://www.procyclingstats.com/rider/lars-craps,6.0,28.0
+9,HIRSCHI Marc,https://www.procyclingstats.com/rider/marc-hirschi,6.0,28.0
+9,IZAGIRRE Ion,https://www.procyclingstats.com/rider/ion-izagirre,6.0,28.0
+9,PARET-PEINTRE Valentin,https://www.procyclingstats.com/rider/valentin-paret-peintre,6.0,24.0
+9,FOSS Tobias,https://www.procyclingstats.com/rider/tobias-foss,5.0,13.0
+9,BRAZ AFONSO Clément,https://www.procyclingstats.com/rider/clement-braz-afonso,4.0,23.0
+9,STEINHAUSER Georg,https://www.procyclingstats.com/rider/georg-steinhauser,1.0,6.0
+10,ROMO Javier,https://www.procyclingstats.com/rider/javier-romo,80.0,81.0
+10,TEJADA Harold,https://www.procyclingstats.com/rider/harold-tejada,40.0,46.0
+10,CARAPAZ Richard,https://www.procyclingstats.com/rider/richard-carapaz,27.0,34.0
+10,VERVAEKE Louis,https://www.procyclingstats.com/rider/louis-vervaeke,25.0,52.0
+10,BAUDIN Alex,https://www.procyclingstats.com/rider/alex-baudin,24.0,63.0
+10,GARCÍA PIERNA Raúl,https://www.procyclingstats.com/rider/raul-garcia-pierna,24.0,49.0
+10,VAUQUELIN Kévin,https://www.procyclingstats.com/rider/kevin-vauquelin,24.0,28.0
+10,PARET-PEINTRE Valentin,https://www.procyclingstats.com/rider/valentin-paret-peintre,23.0,63.0
+10,AZPARREN Xabier Mikel,https://www.procyclingstats.com/rider/xabier-mikel-azparren-irurzun,23.0,47.0
+10,NICOLAU Joel,https://www.procyclingstats.com/rider/joel-nicolau,23.0,44.0
+10,ABRAHAMSEN Jonas,https://www.procyclingstats.com/rider/jonas-abrahamsen,23.0,43.0
+10,THOMAS Benjamin,https://www.procyclingstats.com/rider/benjamin-thomas-2,23.0,42.0
+10,VELASCO Simone,https://www.procyclingstats.com/rider/simone-velasco,23.0,23.0
+10,DEBRUYNE Ramses,https://www.procyclingstats.com/rider/ramses-debruyne,22.0,61.0
+10,O'CONNOR Ben,https://www.procyclingstats.com/rider/ben-o-connor,22.0,45.0
+10,JEGAT Jordan,https://www.procyclingstats.com/rider/jordan-jegat,21.0,47.0
+10,BRAZ AFONSO Clément,https://www.procyclingstats.com/rider/clement-braz-afonso,21.0,45.0
+10,HIRSCHI Marc,https://www.procyclingstats.com/rider/marc-hirschi,20.0,43.0
+10,IZAGIRRE Ion,https://www.procyclingstats.com/rider/ion-izagirre,20.0,42.0
+10,VAN DER POEL Mathieu,https://www.procyclingstats.com/rider/mathieu-van-der-poel,20.0,38.0
+10,PLAPP Luke,https://www.procyclingstats.com/rider/luke-plapp,19.0,46.0
+10,CEPEDA Jefferson Alveiro,https://www.procyclingstats.com/rider/jefferson-cepeda-hernandez,19.0,45.0
+10,HIGUITA Sergio,https://www.procyclingstats.com/rider/sergio-higuita,19.0,44.0
+10,GRÉGOIRE Romain,https://www.procyclingstats.com/rider/romain-gregoire,19.0,43.0
+10,ARENSMAN Thymen,https://www.procyclingstats.com/rider/thymen-arensman,19.0,41.0
+10,ZIMMERMANN Georg,https://www.procyclingstats.com/rider/georg-zimmermann,19.0,41.0
+10,MARTIN Guillaume,https://www.procyclingstats.com/rider/guillaume-martin,19.0,19.0
+10,HEALY Ben,https://www.procyclingstats.com/rider/ben-healy,18.0,46.0
+10,WRIGHT Fred,https://www.procyclingstats.com/rider/alfred-wright,18.0,42.0
+10,GUERNALEC Thibault,https://www.procyclingstats.com/rider/thibault-guernalec,18.0,18.0
+10,HALLER Marco,https://www.procyclingstats.com/rider/marco-haller,18.0,18.0
+10,POGAČAR Tadej,https://www.procyclingstats.com/rider/tadej-pogacar,16.0,14.0
+10,FRIGO Marco,https://www.procyclingstats.com/rider/marco-frigo,14.0,14.0
+10,TARLING Joshua,https://www.procyclingstats.com/rider/joshua-tarling,5.0,5.0
+11,OLIVEIRA Nelson,https://www.procyclingstats.com/rider/nelson-oliveira,142.0,142.0
+11,CHARMIG Anthon,https://www.procyclingstats.com/rider/anthon-charmig,142.0,142.0
+11,LE BERRE Mathis,https://www.procyclingstats.com/rider/mathis-le-berre,142.0,142.0
+11,ALAPHILIPPE Julian,https://www.procyclingstats.com/rider/julian-alaphilippe,110.0,112.0
+11,SLOCK Liam,https://www.procyclingstats.com/rider/liam-slock,,14.0
+12,VEISTROFFER Baptiste,https://www.procyclingstats.com/rider/baptiste-veistroffer,123.0,123.0
+12,COSTIOU Ewen,https://www.procyclingstats.com/rider/ewen-costiou,72.0,81.0
+12,CARUSO Damiano,https://www.procyclingstats.com/rider/damiano-caruso,61.0,70.0
+12,VERCHER Mattéo,https://www.procyclingstats.com/rider/matheo-vercher,61.0,70.0
+12,GANNA Filippo,https://www.procyclingstats.com/rider/filippo-ganna,9.0,10.0
+12,VACEK Mathias,https://www.procyclingstats.com/rider/mathias-vacek,9.0,10.0
+12,SCHMID Mauro,https://www.procyclingstats.com/rider/mauro-schmid,9.0,9.0
+12,STANNARD Robert,https://www.procyclingstats.com/rider/robert-stannard,8.0,9.0
+12,HOOLE Daan,https://www.procyclingstats.com/rider/daan-hoole,8.0,9.0
+12,BERCKMOES Jenno,https://www.procyclingstats.com/rider/jenno-berckmoes,8.0,9.0
+12,KIRSCH Alex,https://www.procyclingstats.com/rider/alex-kirsch,8.0,9.0
+12,WRIGHT Fred,https://www.procyclingstats.com/rider/alfred-wright,8.0,8.0
+12,MARSMAN Tim,https://www.procyclingstats.com/rider/tim-marsman,8.0,8.0
+12,ASKEY Lewis,https://www.procyclingstats.com/rider/lewis-askey,8.0,8.0
+12,STEINHAUSER Georg,https://www.procyclingstats.com/rider/georg-steinhauser,8.0,8.0
+12,BALLERINI Davide,https://www.procyclingstats.com/rider/davide-ballerini,8.0,8.0
+12,HAGENES Per Strand,https://www.procyclingstats.com/rider/per-strand-hagenes,8.0,8.0
+12,DHONDT Robbe,https://www.procyclingstats.com/rider/robbe-dhondt,8.0,8.0
+12,SIMMONS Quinn,https://www.procyclingstats.com/rider/quinn-simmons,5.0,6.0
+13,SCHMID Mauro,https://www.procyclingstats.com/rider/mauro-schmid,166.0,170.0
+13,VAN GILS Maxim,https://www.procyclingstats.com/rider/maxim-van-gils,152.0,170.0
+13,VAUQUELIN Kévin,https://www.procyclingstats.com/rider/kevin-vauquelin,151.0,170.0
+13,JEGAT Jordan,https://www.procyclingstats.com/rider/jordan-jegat,151.0,170.0
+13,PIDCOCK Tom,https://www.procyclingstats.com/rider/tom-pidcock,151.0,170.0
+13,WELLENS Tim,https://www.procyclingstats.com/rider/tim-wellens,146.0,170.0
+13,MCNULTY Brandon,https://www.procyclingstats.com/rider/brandon-mcnulty,137.0,170.0
+13,HIRSCHI Marc,https://www.procyclingstats.com/rider/marc-hirschi,136.0,147.0
+13,GARCÍA PIERNA Raúl,https://www.procyclingstats.com/rider/raul-garcia-pierna,135.0,170.0
+13,IZAGIRRE Ion,https://www.procyclingstats.com/rider/ion-izagirre,135.0,170.0
+13,VALGREN Michael,https://www.procyclingstats.com/rider/michael-valgren-andersen,134.0,170.0
+13,MOHORIČ Matej,https://www.procyclingstats.com/rider/matej-mohoric,134.0,140.0
+13,BENNETT George,https://www.procyclingstats.com/rider/george-bennett,134.0,140.0
+13,PLUIMERS Rick,https://www.procyclingstats.com/rider/rick-pluimers,133.0,139.0
+13,PACHER Quentin,https://www.procyclingstats.com/rider/quentin-pacher,132.0,140.0
+13,ARANBURU Alex,https://www.procyclingstats.com/rider/alex-aranburu,132.0,140.0
+13,HERMANS Quinten,https://www.procyclingstats.com/rider/quinten-hermans,132.0,140.0
+13,VERSTRYNGE Emiel,https://www.procyclingstats.com/rider/emiel-verstrynge,132.0,139.0
+13,VAN DIJKE Tim,https://www.procyclingstats.com/rider/tim-van-dijke,131.0,139.0
+13,PHILIPSEN Jasper,https://www.procyclingstats.com/rider/jasper-philipsen,131.0,139.0
+13,THOMAS Benjamin,https://www.procyclingstats.com/rider/benjamin-thomas-2,131.0,139.0
+13,CAMPENAERTS Victor,https://www.procyclingstats.com/rider/victor-campenaerts,131.0,139.0
+13,VINOKUROV Nicolas,https://www.procyclingstats.com/rider/nicolas-vinokurov,131.0,139.0
+13,GRÉGOIRE Romain,https://www.procyclingstats.com/rider/romain-gregoire,129.0,140.0
+13,HEALY Ben,https://www.procyclingstats.com/rider/ben-healy,129.0,139.0
+13,GERMANI Lorenzo,https://www.procyclingstats.com/rider/lorenzo-germani,126.0,140.0
+13,OLIVEIRA Nelson,https://www.procyclingstats.com/rider/nelson-oliveira,126.0,140.0
+13,HAGENES Per Strand,https://www.procyclingstats.com/rider/per-strand-hagenes,125.0,139.0
+13,BREUILLARD Nicolas,https://www.procyclingstats.com/rider/nicolas-breuillard,124.0,170.0
+13,RUSSO Clément,https://www.procyclingstats.com/rider/clement-russo,121.0,139.0
+13,MEURISSE Xandro,https://www.procyclingstats.com/rider/xandro-meurisse,121.0,134.0
+13,WRIGHT Fred,https://www.procyclingstats.com/rider/alfred-wright,117.0,134.0
+13,ALAPHILIPPE Julian,https://www.procyclingstats.com/rider/julian-alaphilippe,117.0,134.0
+13,DEGENKOLB John,https://www.procyclingstats.com/rider/john-degenkolb,117.0,134.0
+13,GUERNALEC Thibault,https://www.procyclingstats.com/rider/thibault-guernalec,117.0,134.0
+13,PLANCKAERT Edward,https://www.procyclingstats.com/rider/edward-planckaert,117.0,134.0
+13,HESSMANN Michel,https://www.procyclingstats.com/rider/michel-hessmann,110.0,135.0
+13,TEJADA Harold,https://www.procyclingstats.com/rider/harold-tejada,87.0,109.0
+13,ASGREEN Kasper,https://www.procyclingstats.com/rider/kasper-asgreen,78.0,141.0
+13,PLAPP Luke,https://www.procyclingstats.com/rider/luke-plapp,73.0,148.0
+13,BRAZ AFONSO Clément,https://www.procyclingstats.com/rider/clement-braz-afonso,73.0,146.0
+13,CRAPS Lars,https://www.procyclingstats.com/rider/lars-craps,57.0,146.0
+13,MATTHEWS Michael,https://www.procyclingstats.com/rider/michael-matthews,56.0,146.0
+13,O'CONNOR Ben,https://www.procyclingstats.com/rider/ben-o-connor,55.0,118.0
+13,PARRA José Félix,https://www.procyclingstats.com/rider/jose-felix-parra,54.0,116.0
+13,VAN MECHELEN Vlad,https://www.procyclingstats.com/rider/vlad-van-mechelen,54.0,116.0
+13,DELBOVE Joris,https://www.procyclingstats.com/rider/joris-delbove,54.0,116.0
+13,VERCHER Mattéo,https://www.procyclingstats.com/rider/matheo-vercher,54.0,116.0
+13,DHONDT Robbe,https://www.procyclingstats.com/rider/robbe-dhondt,54.0,115.0
+13,CORT Magnus,https://www.procyclingstats.com/rider/magnus-cort-nielsen,54.0,113.0
+13,ABRAHAMSEN Jonas,https://www.procyclingstats.com/rider/jonas-abrahamsen,53.0,118.0
+13,GIRMAY Biniam,https://www.procyclingstats.com/rider/biniam-girmay,53.0,116.0
+13,PEDERSEN Mads,https://www.procyclingstats.com/rider/mads-pedersen,53.0,115.0
+13,BALLERINI Davide,https://www.procyclingstats.com/rider/davide-ballerini,43.0,114.0
+13,TARLING Joshua,https://www.procyclingstats.com/rider/joshua-tarling,43.0,111.0
+13,OLDANI Stefano,https://www.procyclingstats.com/rider/stefano-oldani,41.0,113.0
+13,VAN ASBROECK Tom,https://www.procyclingstats.com/rider/tom-van-asbroeck,39.0,111.0
+13,KWIATKOWSKI Michał,https://www.procyclingstats.com/rider/michal-kwiatkowski,28.0,82.0
+13,ZIMMERMANN Georg,https://www.procyclingstats.com/rider/georg-zimmermann,25.0,25.0
+13,VERVAEKE Louis,https://www.procyclingstats.com/rider/louis-vervaeke,25.0,25.0
+13,KIRSCH Alex,https://www.procyclingstats.com/rider/alex-kirsch,25.0,25.0
+14,CARAPAZ Richard,https://www.procyclingstats.com/rider/richard-carapaz,128.0,132.0
+14,PARET-PEINTRE Valentin,https://www.procyclingstats.com/rider/valentin-paret-peintre,118.0,126.0
+14,JOHANNESSEN Tobias Halland,https://www.procyclingstats.com/rider/tobias-halland-johannessen,115.0,132.0
+14,JOHANNESSEN Anders Halland,https://www.procyclingstats.com/rider/anders-halland-johannessen,107.0,119.0
+14,HEALY Ben,https://www.procyclingstats.com/rider/ben-healy,99.0,109.0
+14,RUBIO Einer,https://www.procyclingstats.com/rider/einer-rubio,85.0,125.0
+14,ARENSMAN Thymen,https://www.procyclingstats.com/rider/thymen-arensman,13.0,82.0
+14,HIRSCHI Marc,https://www.procyclingstats.com/rider/marc-hirschi,13.0,80.0
+14,TIBERI Antonio,https://www.procyclingstats.com/rider/antonio-tiberi,12.0,81.0
+14,SIMMONS Quinn,https://www.procyclingstats.com/rider/quinn-simmons,11.0,81.0
+14,BERNAL Egan,https://www.procyclingstats.com/rider/egan-bernal,11.0,80.0
+14,CATTANEO Mattia,https://www.procyclingstats.com/rider/mattia-cattaneo,10.0,80.0
+14,ARMIRAIL Bruno,https://www.procyclingstats.com/rider/bruno-armirail,10.0,80.0
+14,FOSS Tobias,https://www.procyclingstats.com/rider/tobias-foss,10.0,80.0
+14,PIDCOCK Tom,https://www.procyclingstats.com/rider/tom-pidcock,10.0,79.0
+14,CASTRILLO Pablo,https://www.procyclingstats.com/rider/pablo-castrillo-zapater,10.0,39.0
+14,BAUDIN Alex,https://www.procyclingstats.com/rider/alex-baudin,10.0,27.0
+14,JORGENSON Matteo,https://www.procyclingstats.com/rider/matteo-jorgenson,9.0,79.0
+14,PARET-PEINTRE Aurélien,https://www.procyclingstats.com/rider/aurelien-paret-peintre,9.0,79.0
+14,VAN EETVELT Lennert,https://www.procyclingstats.com/rider/lennert-van-eetvelt,9.0,75.0
+14,GARCÍA PIERNA Raúl,https://www.procyclingstats.com/rider/raul-garcia-pierna,9.0,67.0
+14,STEINHAUSER Georg,https://www.procyclingstats.com/rider/georg-steinhauser,9.0,67.0
+14,CAMPENAERTS Victor,https://www.procyclingstats.com/rider/victor-campenaerts,9.0,46.0
+14,DELETTRE Alexandre,https://www.procyclingstats.com/rider/alexandre-delettre,9.0,14.0
+14,POGAČAR Tadej,https://www.procyclingstats.com/rider/tadej-pogacar,9.0,8.0
+14,CRAPS Lars,https://www.procyclingstats.com/rider/lars-craps,7.0,65.0
+14,ENGELHARDT Felix,https://www.procyclingstats.com/rider/felix-engelhardt,7.0,51.0
+14,PARRA José Félix,https://www.procyclingstats.com/rider/jose-felix-parra,7.0,13.0
+14,TRATNIK Jan,https://www.procyclingstats.com/rider/jan-tratnik,7.0,13.0
+14,SKAARSETH Anders,https://www.procyclingstats.com/rider/anders-skaarseth,7.0,13.0
+14,STORER Michael,https://www.procyclingstats.com/rider/michael-storer,6.0,76.0
+14,ROMO Javier,https://www.procyclingstats.com/rider/javier-romo,6.0,12.0
+14,BERWICK Sebastian,https://www.procyclingstats.com/rider/sebastian-berwick,5.0,61.0
+14,VAUQUELIN Kévin,https://www.procyclingstats.com/rider/kevin-vauquelin,5.0,56.0
+14,HOWSON Damien,https://www.procyclingstats.com/rider/damien-howson,5.0,48.0
+14,MARTIN Guillaume,https://www.procyclingstats.com/rider/guillaume-martin,4.0,9.0
+14,VELASCO Simone,https://www.procyclingstats.com/rider/simone-velasco,3.0,7.0
+14,CEPEDA Jefferson Alveiro,https://www.procyclingstats.com/rider/jefferson-cepeda-hernandez,3.0,7.0
+14,FRIGO Marco,https://www.procyclingstats.com/rider/marco-frigo,2.0,6.0
+14,STANNARD Robert,https://www.procyclingstats.com/rider/robert-stannard,2.0,6.0
+14,VINGEGAARD Jonas,https://www.procyclingstats.com/rider/jonas-vingegaard,1.0,6.0
+14,SEIXAS Paul,https://www.procyclingstats.com/rider/paul-seixas,1.0,6.0
+15,SCHMID Mauro,https://www.procyclingstats.com/rider/mauro-schmid,104.0,128.0
+15,SIMMONS Quinn,https://www.procyclingstats.com/rider/quinn-simmons,74.0,107.0
+15,GARCÍA PIERNA Raúl,https://www.procyclingstats.com/rider/raul-garcia-pierna,66.0,77.0
+15,YATES Adam,https://www.procyclingstats.com/rider/adam-yates,64.0,108.0
+15,VOISARD Yannis,https://www.procyclingstats.com/rider/yannis-voisard,64.0,108.0
+15,PIDCOCK Tom,https://www.procyclingstats.com/rider/tom-pidcock,64.0,107.0
+15,VAN DIJKE Tim,https://www.procyclingstats.com/rider/tim-van-dijke,64.0,77.0
+15,RUBIO Einer,https://www.procyclingstats.com/rider/einer-rubio,63.0,106.0
+15,VINOKUROV Nicolas,https://www.procyclingstats.com/rider/nicolas-vinokurov,53.0,67.0
+15,COSTIOU Ewen,https://www.procyclingstats.com/rider/ewen-costiou,49.0,107.0
+15,VAN WILDER Ilan,https://www.procyclingstats.com/rider/ilan-van-wilder,47.0,97.0
+15,FRIGO Marco,https://www.procyclingstats.com/rider/marco-frigo,46.0,58.0
+15,MOHORIČ Matej,https://www.procyclingstats.com/rider/matej-mohoric,44.0,56.0
+15,VAUQUELIN Kévin,https://www.procyclingstats.com/rider/kevin-vauquelin,43.0,97.0
+15,BAUDIN Alex,https://www.procyclingstats.com/rider/alex-baudin,43.0,97.0
+15,PARET-PEINTRE Aurélien,https://www.procyclingstats.com/rider/aurelien-paret-peintre,43.0,92.0
+15,MARTIN Guillaume,https://www.procyclingstats.com/rider/guillaume-martin,43.0,60.0
+15,CAMPENAERTS Victor,https://www.procyclingstats.com/rider/victor-campenaerts,43.0,59.0
+15,DELETTRE Alexandre,https://www.procyclingstats.com/rider/alexandre-delettre,43.0,54.0
+15,ARMIRAIL Bruno,https://www.procyclingstats.com/rider/bruno-armirail,42.0,59.0
+15,BERNAL Egan,https://www.procyclingstats.com/rider/egan-bernal,42.0,54.0
+15,HEALY Ben,https://www.procyclingstats.com/rider/ben-healy,42.0,51.0
+15,VAN MOER Brent,https://www.procyclingstats.com/rider/brent-van-moer,42.0,51.0
+15,AZPARREN Xabier Mikel,https://www.procyclingstats.com/rider/xabier-mikel-azparren-irurzun,42.0,42.0
+15,ARENSMAN Thymen,https://www.procyclingstats.com/rider/thymen-arensman,40.0,40.0
+15,BALDERSTONE Abel,https://www.procyclingstats.com/rider/abel-balderstone-roumens,36.0,47.0
+15,OLIVEIRA Nelson,https://www.procyclingstats.com/rider/nelson-oliveira,23.0,25.0
+15,SKAARSETH Anders,https://www.procyclingstats.com/rider/anders-skaarseth,23.0,24.0
+15,MATTHEWS Michael,https://www.procyclingstats.com/rider/michael-matthews,23.0,24.0
+15,IZAGIRRE Ion,https://www.procyclingstats.com/rider/ion-izagirre,22.0,22.0
+15,JOHANNESSEN Tobias Halland,https://www.procyclingstats.com/rider/tobias-halland-johannessen,18.0,18.0
+15,PARET-PEINTRE Valentin,https://www.procyclingstats.com/rider/valentin-paret-peintre,1.0,5.0
+17,STUYVEN Jasper,https://www.procyclingstats.com/rider/jasper-stuyven,111.0,112.0
+17,ENGELHARDT Felix,https://www.procyclingstats.com/rider/felix-engelhardt,89.0,111.0
+17,SIMMONS Quinn,https://www.procyclingstats.com/rider/quinn-simmons,65.0,112.0
+17,BERNAL Egan,https://www.procyclingstats.com/rider/egan-bernal,58.0,113.0
+17,TARLING Joshua,https://www.procyclingstats.com/rider/joshua-tarling,58.0,112.0
+17,VAN DER POEL Mathieu,https://www.procyclingstats.com/rider/mathieu-van-der-poel,58.0,112.0
+17,MOHORIČ Matej,https://www.procyclingstats.com/rider/matej-mohoric,57.0,112.0
+17,BAUDIN Alex,https://www.procyclingstats.com/rider/alex-baudin,57.0,112.0
+17,CASTRILLO Pablo,https://www.procyclingstats.com/rider/pablo-castrillo-zapater,57.0,62.0
+17,MARTIN Guillaume,https://www.procyclingstats.com/rider/guillaume-martin,56.0,111.0
+17,BRAZ AFONSO Clément,https://www.procyclingstats.com/rider/clement-braz-afonso,56.0,111.0
+17,BENOOT Tiesj,https://www.procyclingstats.com/rider/tiesj-benoot,55.0,110.0
+17,HAGENES Per Strand,https://www.procyclingstats.com/rider/per-strand-hagenes,53.0,108.0
+17,HEALY Ben,https://www.procyclingstats.com/rider/ben-healy,49.0,82.0
+17,HINDLEY Jai,https://www.procyclingstats.com/rider/jai-hindley,48.0,103.0
+17,RUBIO Einer,https://www.procyclingstats.com/rider/einer-rubio,48.0,103.0
+17,PLUIMERS Rick,https://www.procyclingstats.com/rider/rick-pluimers,48.0,103.0
+17,PEDERSEN Mads,https://www.procyclingstats.com/rider/mads-pedersen,41.0,64.0
+17,KWIATKOWSKI Michał,https://www.procyclingstats.com/rider/michal-kwiatkowski,39.0,61.0
+17,PLANCKAERT Edward,https://www.procyclingstats.com/rider/edward-planckaert,34.0,54.0
+17,JORGENSON Matteo,https://www.procyclingstats.com/rider/matteo-jorgenson,21.0,88.0
+17,TEJADA Harold,https://www.procyclingstats.com/rider/harold-tejada,20.0,75.0
+17,ABRAHAMSEN Jonas,https://www.procyclingstats.com/rider/jonas-abrahamsen,16.0,16.0
+17,VEISTROFFER Baptiste,https://www.procyclingstats.com/rider/baptiste-veistroffer,14.0,14.0
+17,LE BERRE Mathis,https://www.procyclingstats.com/rider/mathis-le-berre,13.0,50.0
+17,DHONDT Robbe,https://www.procyclingstats.com/rider/robbe-dhondt,11.0,62.0
+17,POLITT Nils,https://www.procyclingstats.com/rider/nils-politt,9.0,67.0
+17,QUINN Sean,https://www.procyclingstats.com/rider/sean-quinn,8.0,8.0
+17,DENZ Nico,https://www.procyclingstats.com/rider/nico-denz,8.0,8.0
+17,AZPARREN Xabier Mikel,https://www.procyclingstats.com/rider/xabier-mikel-azparren-irurzun,8.0,8.0
+17,BALDERSTONE Abel,https://www.procyclingstats.com/rider/abel-balderstone-roumens,7.0,64.0
+17,WALKER Max,https://www.procyclingstats.com/rider/max-walker,7.0,9.0
+17,IZAGIRRE Ion,https://www.procyclingstats.com/rider/ion-izagirre,6.0,7.0
+17,SKAARSETH Anders,https://www.procyclingstats.com/rider/anders-skaarseth,6.0,7.0
+17,CAMPENAERTS Victor,https://www.procyclingstats.com/rider/victor-campenaerts,5.0,61.0
+17,MATTHEWS Michael,https://www.procyclingstats.com/rider/michael-matthews,5.0,61.0
+17,KOOIJ Olav,https://www.procyclingstats.com/rider/olav-kooij,5.0,61.0
+17,JEGAT Jordan,https://www.procyclingstats.com/rider/jordan-jegat,5.0,61.0
+17,DELBOVE Joris,https://www.procyclingstats.com/rider/joris-delbove,5.0,61.0
+17,ASKEY Lewis,https://www.procyclingstats.com/rider/lewis-askey,5.0,61.0
+17,VERSTRYNGE Emiel,https://www.procyclingstats.com/rider/emiel-verstrynge,4.0,54.0
+17,VAN MECHELEN Vlad,https://www.procyclingstats.com/rider/vlad-van-mechelen,2.0,61.0
+17,PHILIPSEN Jasper,https://www.procyclingstats.com/rider/jasper-philipsen,2.0,61.0
+17,ARTZ Huub,https://www.procyclingstats.com/rider/huub-artz,2.0,60.0
+17,GATE Aaron,https://www.procyclingstats.com/rider/aaron-gate,2.0,60.0
+17,GARCÍA PIERNA Raúl,https://www.procyclingstats.com/rider/raul-garcia-pierna,2.0,60.0
+17,HERMANS Quinten,https://www.procyclingstats.com/rider/quinten-hermans,2.0,60.0
+17,GEE-WEST Derek,https://www.procyclingstats.com/rider/derek-gee,2.0,60.0
+17,ZIMMERMANN Georg,https://www.procyclingstats.com/rider/georg-zimmermann,2.0,60.0
+17,RUSSO Clément,https://www.procyclingstats.com/rider/clement-russo,2.0,60.0
+17,PAGE Hugo,https://www.procyclingstats.com/rider/hugo-page,2.0,60.0
+17,SCHMID Mauro,https://www.procyclingstats.com/rider/mauro-schmid,2.0,59.0
+17,VALGREN Michael,https://www.procyclingstats.com/rider/michael-valgren-andersen,2.0,59.0
+17,O'CONNOR Ben,https://www.procyclingstats.com/rider/ben-o-connor,,55.0
+18,JORGENSON Matteo,https://www.procyclingstats.com/rider/matteo-jorgenson,147.0,152.0
+18,JOHANNESSEN Tobias Halland,https://www.procyclingstats.com/rider/tobias-halland-johannessen,147.0,151.0
+18,ENGELHARDT Felix,https://www.procyclingstats.com/rider/felix-engelhardt,103.0,148.0
+18,ARENSMAN Thymen,https://www.procyclingstats.com/rider/thymen-arensman,101.0,143.0
+18,PEDERSEN Mads,https://www.procyclingstats.com/rider/mads-pedersen,101.0,123.0
+18,CASTRILLO Pablo,https://www.procyclingstats.com/rider/pablo-castrillo-zapater,100.0,148.0
+18,BREUILLARD Nicolas,https://www.procyclingstats.com/rider/nicolas-breuillard,100.0,148.0
+18,SCHMID Mauro,https://www.procyclingstats.com/rider/mauro-schmid,99.0,125.0
+18,CARAPAZ Richard,https://www.procyclingstats.com/rider/richard-carapaz,97.0,117.0
+18,PARET-PEINTRE Valentin,https://www.procyclingstats.com/rider/valentin-paret-peintre,92.0,117.0
+18,GARCÍA PIERNA Raúl,https://www.procyclingstats.com/rider/raul-garcia-pierna,89.0,120.0
+18,GRÉGOIRE Romain,https://www.procyclingstats.com/rider/romain-gregoire,74.0,132.0
+18,BERNAL Egan,https://www.procyclingstats.com/rider/egan-bernal,48.0,103.0
+18,VACEK Mathias,https://www.procyclingstats.com/rider/mathias-vacek,47.0,113.0
+18,ABRAHAMSEN Jonas,https://www.procyclingstats.com/rider/jonas-abrahamsen,24.0,24.0
+18,LE BERRE Mathis,https://www.procyclingstats.com/rider/mathis-le-berre,20.0,108.0
+18,ASKEY Lewis,https://www.procyclingstats.com/rider/lewis-askey,20.0,21.0
+18,VINOKUROV Nicolas,https://www.procyclingstats.com/rider/nicolas-vinokurov,20.0,20.0
+18,GATE Aaron,https://www.procyclingstats.com/rider/aaron-gate,17.0,18.0
+18,HEALY Ben,https://www.procyclingstats.com/rider/ben-healy,8.0,119.0
+18,QUINN Sean,https://www.procyclingstats.com/rider/sean-quinn,6.0,7.0
+18,CARUSO Damiano,https://www.procyclingstats.com/rider/damiano-caruso,1.0,102.0
+18,MARTIN Guillaume,https://www.procyclingstats.com/rider/guillaume-martin,,103.0
+18,SIMMONS Quinn,https://www.procyclingstats.com/rider/quinn-simmons,,97.0
+18,VALGREN Michael,https://www.procyclingstats.com/rider/michael-valgren-andersen,,97.0
+18,BRAZ AFONSO Clément,https://www.procyclingstats.com/rider/clement-braz-afonso,,96.0
+18,DELETTRE Alexandre,https://www.procyclingstats.com/rider/alexandre-delettre,,96.0
+18,TEJADA Harold,https://www.procyclingstats.com/rider/harold-tejada,,96.0
+18,VERVAEKE Louis,https://www.procyclingstats.com/rider/louis-vervaeke,,96.0
+18,KWIATKOWSKI Michał,https://www.procyclingstats.com/rider/michal-kwiatkowski,,92.0
+18,STORER Michael,https://www.procyclingstats.com/rider/michael-storer,,89.0
+18,BAUDIN Alex,https://www.procyclingstats.com/rider/alex-baudin,,89.0
+18,HIRSCHI Marc,https://www.procyclingstats.com/rider/marc-hirschi,,88.0
+18,DELBOVE Joris,https://www.procyclingstats.com/rider/joris-delbove,,88.0
+18,CORT Magnus,https://www.procyclingstats.com/rider/magnus-cort-nielsen,,87.0
+18,RUBIO Einer,https://www.procyclingstats.com/rider/einer-rubio,,83.0
+18,BENNETT George,https://www.procyclingstats.com/rider/george-bennett,,82.0
+18,MATTHEWS Michael,https://www.procyclingstats.com/rider/michael-matthews,,82.0
+18,O'CONNOR Ben,https://www.procyclingstats.com/rider/ben-o-connor,,81.0
+18,ARMIRAIL Bruno,https://www.procyclingstats.com/rider/bruno-armirail,,80.0
+18,STUYVEN Jasper,https://www.procyclingstats.com/rider/jasper-stuyven,,56.0
+18,IZAGIRRE Ion,https://www.procyclingstats.com/rider/ion-izagirre,,48.0
+18,TRATNIK Jan,https://www.procyclingstats.com/rider/jan-tratnik,,39.0
+18,MEURISSE Xandro,https://www.procyclingstats.com/rider/xandro-meurisse,,38.0
+18,HOWSON Damien,https://www.procyclingstats.com/rider/damien-howson,,36.0
+18,BARGUIL Warren,https://www.procyclingstats.com/rider/warren-barguil,,29.0
+18,FRIGO Marco,https://www.procyclingstats.com/rider/marco-frigo,,29.0
+19,CARAPAZ Richard,https://www.procyclingstats.com/rider/richard-carapaz,127.0,127.0
+19,MARTINEZ Lenny,https://www.procyclingstats.com/rider/lenny-martinez,123.0,127.0
+19,KUSS Sepp,https://www.procyclingstats.com/rider/sepp-kuss,120.0,127.0
+19,JOHANNESSEN Tobias Halland,https://www.procyclingstats.com/rider/tobias-halland-johannessen,113.0,120.0
+19,ARENSMAN Thymen,https://www.procyclingstats.com/rider/thymen-arensman,113.0,120.0
+19,RUBIO Einer,https://www.procyclingstats.com/rider/einer-rubio,112.0,127.0
+19,RICCITELLO Matthew,https://www.procyclingstats.com/rider/matthew-riccitello,112.0,121.0
+19,SIMMONS Quinn,https://www.procyclingstats.com/rider/quinn-simmons,112.0,120.0
+19,FOSS Tobias,https://www.procyclingstats.com/rider/tobias-foss,112.0,120.0
+19,TEJADA Harold,https://www.procyclingstats.com/rider/harold-tejada,112.0,120.0
+19,ROMO Javier,https://www.procyclingstats.com/rider/javier-romo,111.0,118.0
+19,BENOOT Tiesj,https://www.procyclingstats.com/rider/tiesj-benoot,110.0,116.0
+19,CATTANEO Mattia,https://www.procyclingstats.com/rider/mattia-cattaneo,110.0,116.0
+19,ARMIRAIL Bruno,https://www.procyclingstats.com/rider/bruno-armirail,110.0,115.0
+19,QUINN Sean,https://www.procyclingstats.com/rider/sean-quinn,94.0,117.0
+19,BRAZ AFONSO Clément,https://www.procyclingstats.com/rider/clement-braz-afonso,94.0,109.0
+19,FRIGO Marco,https://www.procyclingstats.com/rider/marco-frigo,93.0,104.0
+19,PIGANZOLI Davide,https://www.procyclingstats.com/rider/davide-piganzoli,92.0,114.0
+19,IZAGIRRE Ion,https://www.procyclingstats.com/rider/ion-izagirre,92.0,113.0
+19,YATES Adam,https://www.procyclingstats.com/rider/adam-yates,91.0,117.0
+19,MARTIN Guillaume,https://www.procyclingstats.com/rider/guillaume-martin,91.0,115.0
+19,TIBERI Antonio,https://www.procyclingstats.com/rider/antonio-tiberi,90.0,114.0
+19,VOISARD Yannis,https://www.procyclingstats.com/rider/yannis-voisard,90.0,113.0
+19,PEDERSEN Mads,https://www.procyclingstats.com/rider/mads-pedersen,90.0,104.0
+19,O'CONNOR Ben,https://www.procyclingstats.com/rider/ben-o-connor,90.0,103.0
+19,CASTRILLO Pablo,https://www.procyclingstats.com/rider/pablo-castrillo-zapater,90.0,94.0
+19,JOHANNESSEN Anders Halland,https://www.procyclingstats.com/rider/anders-halland-johannessen,89.0,113.0
+19,BENNETT George,https://www.procyclingstats.com/rider/george-bennett,89.0,113.0
+19,HOWSON Damien,https://www.procyclingstats.com/rider/damien-howson,89.0,113.0
+19,VACEK Mathias,https://www.procyclingstats.com/rider/mathias-vacek,89.0,103.0
+19,MATTHEWS Michael,https://www.procyclingstats.com/rider/michael-matthews,89.0,101.0
+19,ENGELHARDT Felix,https://www.procyclingstats.com/rider/felix-engelhardt,89.0,93.0
+19,PACHER Quentin,https://www.procyclingstats.com/rider/quentin-pacher,89.0,93.0
+19,PARET-PEINTRE Valentin,https://www.procyclingstats.com/rider/valentin-paret-peintre,88.0,94.0
+19,BAUDIN Alex,https://www.procyclingstats.com/rider/alex-baudin,88.0,94.0
+19,BERWICK Sebastian,https://www.procyclingstats.com/rider/sebastian-berwick,88.0,93.0
+19,GEE-WEST Derek,https://www.procyclingstats.com/rider/derek-gee,86.0,94.0
+19,GARCÍA PIERNA Raúl,https://www.procyclingstats.com/rider/raul-garcia-pierna,86.0,91.0
+19,JORGENSON Matteo,https://www.procyclingstats.com/rider/matteo-jorgenson,85.0,94.0
+19,TARLING Joshua,https://www.procyclingstats.com/rider/joshua-tarling,79.0,92.0
+19,HEALY Ben,https://www.procyclingstats.com/rider/ben-healy,78.0,92.0
+19,STORER Michael,https://www.procyclingstats.com/rider/michael-storer,69.0,92.0
+19,HIRSCHI Marc,https://www.procyclingstats.com/rider/marc-hirschi,20.0,23.0
+19,DENZ Nico,https://www.procyclingstats.com/rider/nico-denz,15.0,15.0
+19,POGAČAR Tadej,https://www.procyclingstats.com/rider/tadej-pogacar,2.0,13.0
+20,CARAPAZ Richard,https://www.procyclingstats.com/rider/richard-carapaz,140.0,93.0
+20,KUSS Sepp,https://www.procyclingstats.com/rider/sepp-kuss,128.0,93.0
+20,HINDLEY Jai,https://www.procyclingstats.com/rider/jai-hindley,112.0,93.0
+20,AYUSO Juan,https://www.procyclingstats.com/rider/juan-ayuso-pesquera,104.0,93.0
+20,RICCITELLO Matthew,https://www.procyclingstats.com/rider/matthew-riccitello,80.0,94.0
+20,ARENSMAN Thymen,https://www.procyclingstats.com/rider/thymen-arensman,69.0,93.0
+20,JOHANNESSEN Tobias Halland,https://www.procyclingstats.com/rider/tobias-halland-johannessen,68.0,94.0
+20,HEALY Ben,https://www.procyclingstats.com/rider/ben-healy,64.0,90.0
+20,FOSS Tobias,https://www.procyclingstats.com/rider/tobias-foss,62.0,83.0
+20,PIGANZOLI Davide,https://www.procyclingstats.com/rider/davide-piganzoli,61.0,87.0
+20,PARET-PEINTRE Valentin,https://www.procyclingstats.com/rider/valentin-paret-peintre,49.0,63.0
+20,BRAZ AFONSO Clément,https://www.procyclingstats.com/rider/clement-braz-afonso,44.0,64.0
+20,ARMIRAIL Bruno,https://www.procyclingstats.com/rider/bruno-armirail,40.0,60.0
+20,JORGENSON Matteo,https://www.procyclingstats.com/rider/matteo-jorgenson,38.0,59.0
+20,PEDERSEN Mads,https://www.procyclingstats.com/rider/mads-pedersen,27.0,48.0
+20,BARGUIL Warren,https://www.procyclingstats.com/rider/warren-barguil,16.0,16.0
+20,STEINHAUSER Georg,https://www.procyclingstats.com/rider/georg-steinhauser,16.0,16.0
+20,AZPARREN Xabier Mikel,https://www.procyclingstats.com/rider/xabier-mikel-azparren-irurzun,13.0,15.0
+20,ABRAHAMSEN Jonas,https://www.procyclingstats.com/rider/jonas-abrahamsen,13.0,15.0
+20,DELBOVE Joris,https://www.procyclingstats.com/rider/joris-delbove,10.0,11.0
+20,VEISTROFFER Baptiste,https://www.procyclingstats.com/rider/baptiste-veistroffer,6.0,8.0
+20,BENOOT Tiesj,https://www.procyclingstats.com/rider/tiesj-benoot,,7.0
+21,VEISTROFFER Baptiste,https://www.procyclingstats.com/rider/baptiste-veistroffer,63.0,63.0
+21,POGAČAR Tadej,https://www.procyclingstats.com/rider/tadej-pogacar,23.0,24.0
+21,VAN DER POEL Mathieu,https://www.procyclingstats.com/rider/mathieu-van-der-poel,22.0,23.0
+21,AZPARREN Xabier Mikel,https://www.procyclingstats.com/rider/xabier-mikel-azparren-irurzun,18.0,18.0
+21,SLOCK Liam,https://www.procyclingstats.com/rider/liam-slock,17.0,17.0
+21,HESSMANN Michel,https://www.procyclingstats.com/rider/michel-hessmann,17.0,17.0
+21,LE BERRE Mathis,https://www.procyclingstats.com/rider/mathis-le-berre,17.0,17.0
+21,VINOKUROV Nicolas,https://www.procyclingstats.com/rider/nicolas-vinokurov,17.0,17.0
+21,STEINHAUSER Georg,https://www.procyclingstats.com/rider/georg-steinhauser,16.0,16.0
+21,DILLIER Silvan,https://www.procyclingstats.com/rider/silvan-dillier,16.0,16.0
+21,GUERNALEC Thibault,https://www.procyclingstats.com/rider/thibault-guernalec,12.0,12.0
+21,PEDERSEN Mads,https://www.procyclingstats.com/rider/mads-pedersen,9.0,12.0
+21,EVENEPOEL Remco,https://www.procyclingstats.com/rider/remco-evenepoel,7.0,7.0
+21,STUYVEN Jasper,https://www.procyclingstats.com/rider/jasper-stuyven,4.0,11.0
+21,HEALY Ben,https://www.procyclingstats.com/rider/ben-healy,1.0,9.0
+21,ABRAHAMSEN Jonas,https://www.procyclingstats.com/rider/jonas-abrahamsen,,7.0
+21,JORGENSON Matteo,https://www.procyclingstats.com/rider/matteo-jorgenson,,7.0
+21,MOHORIČ Matej,https://www.procyclingstats.com/rider/matej-mohoric,,6.0
+21,HAGENES Per Strand,https://www.procyclingstats.com/rider/per-strand-hagenes,,6.0

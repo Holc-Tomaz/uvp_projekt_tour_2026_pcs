@@ -1,0 +1,22 @@
+﻿stage,stage_type,date,departure,arrival,distance_km,vertical_meters,profile_score,avg_speed_winner_kmh,won_how
+1,RR,04 July 2026,Barcelona,Barcelona,19.6,167,16,53.95,-
+2,RR,05 July 2026,Tarragona,Barcelona,168.5,2049,137,45.951,Sprint of small group
+3,RR,06 July 2026,Granollers,Les Angles,195.9,3940,185,41.216,Sprint of small group
+4,RR,07 July 2026,Carcassonne,Foix,181.9,2784,108,43.525,Sprint of 10 riders
+5,RR,08 July 2026,Lannemezan,Pau,158.3,1395,58,45.42,Sprint of 19 riders
+6,RR,09 July 2026,Pau,Gavarnie-Gèdre,186.2,4149,316,41.056,42.7 km solo
+7,RR,10 July 2026,Hagetmau,Bordeaux,175.1,701,13,46.832,Sprint of large group
+8,RR,11 July 2026,Périgueux,Bergerac,180.4,1353,30,46.488,Sprint of large group
+9,RR,12 July 2026,Malemort,Ussel,154.6,2792,115,44.628,Sprint of small group
+10,RR,14 July 2026,Aurillac,Le Lioran,165.6,3791,261,41.72,14.8 km solo
+11,RR,15 July 2026,Vichy,Nevers,161.3,1107,32,50.91,Sprint of large group
+12,RR,16 July 2026,Circuit Nevers Magny-Cours,Chalon-sur-Saône,179.1,1412,37,49.095,Sprint of large group
+13,RR,17 July 2026,Dole,Belfort,205.8,2309,109,49.999,Sprint à deux
+14,RR,18 July 2026,Mulhouse,Le Markstein,155.3,3941,332,38.806,7.4 km solo
+15,RR,19 July 2026,Champagnole,Plateau de Solaison,183.9,4098,382,41.93,Sprint of 3 riders
+16,ITT,21 July 2026,Évian-les-Bains,Thonon-les-Bains,26.1,470,40,48.458,Time trial
+17,RR,22 July 2026,Chambéry,Voiron,174.7,2362,70,47.383,Sprint of small group
+18,RR,23 July 2026,Voiron,Orcières-Merlette,185.2,3944,233,41.72,3.4 km solo
+19,RR,24 July 2026,Gap,Alpe d'Huez,127.9,3572,357,38.767,0.8 km solo
+20,RR,25 July 2026,Le Bourg d'Oisans,Alpe d'Huez,170.9,5624,438,34.22,5.8 km solo
+21,RR,26 July 2026,Paris,Paris,88.7,1028,33,44.792,0.5 km solo

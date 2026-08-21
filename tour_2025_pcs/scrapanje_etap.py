@@ -1,7 +1,6 @@
 import re
 
 from bs4 import BeautifulSoup
-
 from nastavitve import BASE_URL, TOUR_URL
 from pretvorbe import cas_v_sekunde, normaliziraj_besedilo, v_float, v_int
 from splet import absolutni_url, pridobi_html
@@ -12,7 +11,7 @@ def poisci_etape():
     soup = BeautifulSoup(html, "html.parser")
 
     etape = {}
-    for option in soup.select('option[value*="race/tour-de-france/2025/stage-"]'):
+    for option in soup.select('option[value*="race/tour-de-france/2026/stage-"]'):
         value = option.get("value", "")
         zadetek = re.search(r"stage-(\d+)", value)
         if zadetek:
@@ -20,7 +19,7 @@ def poisci_etape():
             etape[stevilka] = {
                 "stage": stevilka,
                 "oznaka": normaliziraj_besedilo(option.get_text(" ", strip=True)),
-                "url": f"{BASE_URL}/race/tour-de-france/2025/stage-{stevilka}/result/result",
+                "url": f"{BASE_URL}/race/tour-de-france/2026/stage-{stevilka}/result/result",
             }
 
     return [etape[stevilka] for stevilka in sorted(etape)]
