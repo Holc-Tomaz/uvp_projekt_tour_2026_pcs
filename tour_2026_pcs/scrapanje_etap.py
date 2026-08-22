@@ -44,9 +44,15 @@ def razcleni_podatke_etape(soup, etapa):
     vrstice = vrstice_besedila(soup)
     oznaka = etapa["oznaka"] or ""
 
+    if "(ITT)" in oznaka:
+        stage_type = "ITT"
+    elif "(TTT)" in oznaka:
+        stage_type = "TTT"
+    else:
+        stage_type = "RR"
     return {
         "stage": etapa["stage"],
-        "stage_type": "ITT" if "(ITT)" in oznaka else "RR",
+        "stage_type": stage_type,
         "date": vrednost_za_oznako(vrstice, "Date"),
         "departure": vrednost_za_oznako(vrstice, "Departure"),
         "arrival": vrednost_za_oznako(vrstice, "Arrival"),
